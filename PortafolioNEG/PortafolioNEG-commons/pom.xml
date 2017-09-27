@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <parent>
+        <groupId>co.ariatic</groupId>
+        <artifactId>PortafolioNEG</artifactId>
+        <version>0.0.1-SNAPSHOT</version>
+    </parent>
+
+    <artifactId>PortafolioNEG-commons</artifactId>
+    <packaging>pom</packaging>
+  <modules>
+    <module>PortafolioNEG-commons-security</module>
+    <module>PortafolioNEG-commons-service</module>
+    <module>PortafolioNEG-commons-model</module>
+  </modules>
+</project>
