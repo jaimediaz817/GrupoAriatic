@@ -1,0 +1,588 @@
+!SESSION 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2017-09-27 23:42:44.669
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2017-09-27 23:42:44.989
+!MESSAGE Server Startup Succeeded
+!SESSION 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2017-09-28 14:19:11.929
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2017-09-28 14:22:05.861
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 8 1644298244 2017-09-28 18:47:38.138
+!MESSAGE Incremental publish failed for module Portafolio
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 8 0 2017-09-28 18:47:38.138
+!MESSAGE Publish Canceled
+!SESSION 
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2017-09-28 19:26:08.082
+!MESSAGE Incremental publish failed for module Portafolio
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 19:26:08.083
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/META-INF/maven. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 19:26:08.083
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/META-INF. May be locked by another process.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2017-09-28 19:26:09.132
+!MESSAGE Incremental publish failed for module PortafolioNeg-interfaces-web
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 19:26:09.132
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/PortafolioNeg-interfaces-web.war/META-INF/maven/co.ariatic. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 19:26:09.132
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/PortafolioNeg-interfaces-web.war/META-INF/maven. May be locked by another process.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2017-09-28 19:26:09.178
+!MESSAGE Incremental publish failed for module PortafolioNeg-commons-model
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 19:26:09.178
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/PortafolioNeg-interfaces-web.war/WEB-INF/lib/PortafolioNeg-commons-model-0.0.1-SNAPSHOT.jar/META-INF/maven/co.ariatic. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 19:26:09.179
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/PortafolioNeg-interfaces-web.war/WEB-INF/lib/PortafolioNeg-commons-model-0.0.1-SNAPSHOT.jar/META-INF/maven. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 19:26:09.179
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/PortafolioNeg-interfaces-web.war/WEB-INF/lib/PortafolioNeg-commons-model-0.0.1-SNAPSHOT.jar/META-INF. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 19:26:09.179
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/PortafolioNeg-interfaces-web.war/WEB-INF/lib/PortafolioNeg-commons-model-0.0.1-SNAPSHOT.jar/co/ariatic/PortafolioNeg/commons/model. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 19:26:09.179
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/PortafolioNeg-interfaces-web.war/WEB-INF/lib/PortafolioNeg-commons-model-0.0.1-SNAPSHOT.jar/co/ariatic/PortafolioNeg/commons. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 19:26:09.179
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/PortafolioNeg-interfaces-web.war/WEB-INF/lib/PortafolioNeg-commons-model-0.0.1-SNAPSHOT.jar/co/ariatic/PortafolioNeg. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 19:26:09.179
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/PortafolioNeg-interfaces-web.war/WEB-INF/lib/PortafolioNeg-commons-model-0.0.1-SNAPSHOT.jar/co/ariatic. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 19:26:09.179
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/PortafolioNeg-interfaces-web.war/WEB-INF/lib/PortafolioNeg-commons-model-0.0.1-SNAPSHOT.jar/co. May be locked by another process.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2017-09-28 19:26:09.219
+!MESSAGE Incremental publish failed for module PortafolioNeg-services-oferta-interface
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 19:26:09.219
+!MESSAGE Could not delete C:\PROYECTOS\java\servidorapp\wildfly-10.1.0.Final\standalone\deployments\PortafolioNeg-interfaces-web.war\WEB-INF\lib\PortafolioNeg-services-oferta-interface-0.0.1-SNAPSHOT.jar\META-INF\maven\co.ariatic\PortafolioNeg-services-oferta-interface\pom.properties. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 19:26:09.219
+!MESSAGE Could not delete C:\PROYECTOS\java\servidorapp\wildfly-10.1.0.Final\standalone\deployments\PortafolioNeg-interfaces-web.war\WEB-INF\lib\PortafolioNeg-services-oferta-interface-0.0.1-SNAPSHOT.jar\META-INF\maven\co.ariatic\PortafolioNeg-services-oferta-interface\pom.xml. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 19:26:09.219
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/PortafolioNeg-interfaces-web.war/WEB-INF/lib/PortafolioNeg-services-oferta-interface-0.0.1-SNAPSHOT.jar/META-INF/maven/co.ariatic. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 19:26:09.219
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/PortafolioNeg-interfaces-web.war/WEB-INF/lib/PortafolioNeg-services-oferta-interface-0.0.1-SNAPSHOT.jar/META-INF/maven. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 19:26:09.219
+!MESSAGE Could not delete C:\PROYECTOS\java\servidorapp\wildfly-10.1.0.Final\standalone\deployments\PortafolioNeg-interfaces-web.war\WEB-INF\lib\PortafolioNeg-services-oferta-interface-0.0.1-SNAPSHOT.jar\META-INF\MANIFEST.MF. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 19:26:09.219
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/PortafolioNeg-interfaces-web.war/WEB-INF/lib/PortafolioNeg-services-oferta-interface-0.0.1-SNAPSHOT.jar/META-INF. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 19:26:09.219
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/PortafolioNeg-interfaces-web.war/WEB-INF/lib/PortafolioNeg-services-oferta-interface-0.0.1-SNAPSHOT.jar/co/ariatic/PortafolioNeg/helloworld. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 19:26:09.219
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/PortafolioNeg-interfaces-web.war/WEB-INF/lib/PortafolioNeg-services-oferta-interface-0.0.1-SNAPSHOT.jar/co/ariatic/PortafolioNeg. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 19:26:09.219
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/PortafolioNeg-interfaces-web.war/WEB-INF/lib/PortafolioNeg-services-oferta-interface-0.0.1-SNAPSHOT.jar/co/ariatic. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 19:26:09.219
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/PortafolioNeg-interfaces-web.war/WEB-INF/lib/PortafolioNeg-services-oferta-interface-0.0.1-SNAPSHOT.jar/co. May be locked by another process.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2017-09-28 19:26:09.280
+!MESSAGE Incremental publish failed for module PortafolioNeg-commons-service
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 19:26:09.280
+!MESSAGE Could not delete C:\PROYECTOS\java\servidorapp\wildfly-10.1.0.Final\standalone\deployments\PortafolioNeg-interfaces-web.war\WEB-INF\lib\PortafolioNeg-commons-service-0.0.1-SNAPSHOT.jar\META-INF\maven\co.ariatic\PortafolioNeg-commons-service\pom.properties. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 19:26:09.280
+!MESSAGE Could not delete C:\PROYECTOS\java\servidorapp\wildfly-10.1.0.Final\standalone\deployments\PortafolioNeg-interfaces-web.war\WEB-INF\lib\PortafolioNeg-commons-service-0.0.1-SNAPSHOT.jar\META-INF\maven\co.ariatic\PortafolioNeg-commons-service\pom.xml. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 19:26:09.280
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/PortafolioNeg-interfaces-web.war/WEB-INF/lib/PortafolioNeg-commons-service-0.0.1-SNAPSHOT.jar/META-INF/maven/co.ariatic. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 19:26:09.280
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/PortafolioNeg-interfaces-web.war/WEB-INF/lib/PortafolioNeg-commons-service-0.0.1-SNAPSHOT.jar/META-INF/maven. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 19:26:09.280
+!MESSAGE Could not delete C:\PROYECTOS\java\servidorapp\wildfly-10.1.0.Final\standalone\deployments\PortafolioNeg-interfaces-web.war\WEB-INF\lib\PortafolioNeg-commons-service-0.0.1-SNAPSHOT.jar\META-INF\MANIFEST.MF. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 19:26:09.280
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/PortafolioNeg-interfaces-web.war/WEB-INF/lib/PortafolioNeg-commons-service-0.0.1-SNAPSHOT.jar/META-INF. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 19:26:09.280
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/PortafolioNeg-interfaces-web.war/WEB-INF/lib/PortafolioNeg-commons-service-0.0.1-SNAPSHOT.jar/co/ariatic/PortafolioNeg/commons/service. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 19:26:09.280
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/PortafolioNeg-interfaces-web.war/WEB-INF/lib/PortafolioNeg-commons-service-0.0.1-SNAPSHOT.jar/co/ariatic/PortafolioNeg/commons. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 19:26:09.280
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/PortafolioNeg-interfaces-web.war/WEB-INF/lib/PortafolioNeg-commons-service-0.0.1-SNAPSHOT.jar/co/ariatic/PortafolioNeg. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 19:26:09.280
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/PortafolioNeg-interfaces-web.war/WEB-INF/lib/PortafolioNeg-commons-service-0.0.1-SNAPSHOT.jar/co/ariatic. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 19:26:09.280
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/PortafolioNeg-interfaces-web.war/WEB-INF/lib/PortafolioNeg-commons-service-0.0.1-SNAPSHOT.jar/co. May be locked by another process.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2017-09-28 19:26:09.324
+!MESSAGE Incremental publish failed for module PortafolioNeg-services-oferta
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 19:26:09.324
+!MESSAGE Could not delete C:\PROYECTOS\java\servidorapp\wildfly-10.1.0.Final\standalone\deployments\PortafolioNeg-interfaces-web.war\WEB-INF\lib\PortafolioNeg-services-oferta-0.0.1-SNAPSHOT.jar\META-INF\maven\co.ariatic\PortafolioNeg-services-oferta\pom.properties. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 19:26:09.325
+!MESSAGE Could not delete C:\PROYECTOS\java\servidorapp\wildfly-10.1.0.Final\standalone\deployments\PortafolioNeg-interfaces-web.war\WEB-INF\lib\PortafolioNeg-services-oferta-0.0.1-SNAPSHOT.jar\META-INF\maven\co.ariatic\PortafolioNeg-services-oferta\pom.xml. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 19:26:09.325
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/PortafolioNeg-interfaces-web.war/WEB-INF/lib/PortafolioNeg-services-oferta-0.0.1-SNAPSHOT.jar/META-INF/maven/co.ariatic. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 19:26:09.325
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/PortafolioNeg-interfaces-web.war/WEB-INF/lib/PortafolioNeg-services-oferta-0.0.1-SNAPSHOT.jar/META-INF/maven. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 19:26:09.325
+!MESSAGE Could not delete C:\PROYECTOS\java\servidorapp\wildfly-10.1.0.Final\standalone\deployments\PortafolioNeg-interfaces-web.war\WEB-INF\lib\PortafolioNeg-services-oferta-0.0.1-SNAPSHOT.jar\META-INF\MANIFEST.MF. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 19:26:09.325
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/PortafolioNeg-interfaces-web.war/WEB-INF/lib/PortafolioNeg-services-oferta-0.0.1-SNAPSHOT.jar/META-INF. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 19:26:09.325
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/PortafolioNeg-interfaces-web.war/WEB-INF/lib/PortafolioNeg-services-oferta-0.0.1-SNAPSHOT.jar/co/ariatic/PortafolioNeg/helloworld/service. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 19:26:09.325
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/PortafolioNeg-interfaces-web.war/WEB-INF/lib/PortafolioNeg-services-oferta-0.0.1-SNAPSHOT.jar/co/ariatic/PortafolioNeg/helloworld. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 19:26:09.325
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/PortafolioNeg-interfaces-web.war/WEB-INF/lib/PortafolioNeg-services-oferta-0.0.1-SNAPSHOT.jar/co/ariatic/PortafolioNeg. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 19:26:09.325
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/PortafolioNeg-interfaces-web.war/WEB-INF/lib/PortafolioNeg-services-oferta-0.0.1-SNAPSHOT.jar/co/ariatic. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 19:26:09.325
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/PortafolioNeg-interfaces-web.war/WEB-INF/lib/PortafolioNeg-services-oferta-0.0.1-SNAPSHOT.jar/co. May be locked by another process.
+
+!ENTRY org.jboss.ide.eclipse.as.jmx.integration 4 0 2017-09-28 19:29:30.169
+!MESSAGE Error connecting to jmx for server WildFly 10.0
+!STACK 1
+org.jboss.tools.jmx.core.JMXException: There was an error connecting to WildFly 10.0 via JMX.  Please ensure your server is up and exposes its management ports via the -Djboss.bind.address.management=yourwebsite.com launch arguments
+	at org.jboss.ide.eclipse.as.jmx.integration.JBoss71ServerConnection.createConnection(JBoss71ServerConnection.java:98)
+	at org.jboss.ide.eclipse.as.jmx.integration.JBossServerConnection.run(JBossServerConnection.java:202)
+	at org.jboss.ide.eclipse.as.jmx.integration.JBossServerConnection.run(JBossServerConnection.java:162)
+	at org.jboss.ide.eclipse.as.jmx.integration.JBossServerConnection.connectToStartedServer(JBossServerConnection.java:332)
+	at org.jboss.ide.eclipse.as.jmx.integration.JBossServerConnection.connect(JBossServerConnection.java:76)
+	at org.jboss.tools.jmx.core.ConnectJob.run(ConnectJob.java:29)
+	at org.jboss.tools.jmx.ui.internal.actions.DoubleClickAction$1.run(DoubleClickAction.java:71)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+Caused by: java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(Unknown Source)
+	at org.xnio.nio.WorkerThread$ConnectHandle.handleReady(WorkerThread.java:321)
+	at org.xnio.nio.WorkerThread.run(WorkerThread.java:567)
+	at ...asynchronous invocation...(Unknown Source)
+	at org.jboss.remoting3.EndpointImpl.doConnect(EndpointImpl.java:294)
+	at org.jboss.remoting3.EndpointImpl.doConnect(EndpointImpl.java:276)
+	at org.jboss.remoting3.EndpointImpl.connect(EndpointImpl.java:393)
+	at org.jboss.remoting3.EndpointImpl.connect(EndpointImpl.java:377)
+	at org.jboss.remotingjmx.RemotingConnector.internalRemotingConnect(RemotingConnector.java:239)
+	at org.jboss.remotingjmx.RemotingConnector.internalConnect(RemotingConnector.java:158)
+	at org.jboss.remotingjmx.RemotingConnector.connect(RemotingConnector.java:105)
+	at javax.management.remote.JMXConnectorFactory.connect(Unknown Source)
+	at org.jboss.ide.eclipse.as.jmx.integration.JBoss71ServerConnection.createConnection(JBoss71ServerConnection.java:84)
+	... 7 more
+!SUBENTRY 1 org.jboss.ide.eclipse.as.core 4 0 2017-09-28 19:29:30.171
+!MESSAGE There was an error connecting to WildFly 10.0 via JMX.  Please ensure your server is up and exposes its management ports via the -Djboss.bind.address.management=yourwebsite.com launch arguments
+!STACK 0
+java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(Unknown Source)
+	at org.xnio.nio.WorkerThread$ConnectHandle.handleReady(WorkerThread.java:321)
+	at org.xnio.nio.WorkerThread.run(WorkerThread.java:567)
+	at ...asynchronous invocation...(Unknown Source)
+	at org.jboss.remoting3.EndpointImpl.doConnect(EndpointImpl.java:294)
+	at org.jboss.remoting3.EndpointImpl.doConnect(EndpointImpl.java:276)
+	at org.jboss.remoting3.EndpointImpl.connect(EndpointImpl.java:393)
+	at org.jboss.remoting3.EndpointImpl.connect(EndpointImpl.java:377)
+	at org.jboss.remotingjmx.RemotingConnector.internalRemotingConnect(RemotingConnector.java:239)
+	at org.jboss.remotingjmx.RemotingConnector.internalConnect(RemotingConnector.java:158)
+	at org.jboss.remotingjmx.RemotingConnector.connect(RemotingConnector.java:105)
+	at javax.management.remote.JMXConnectorFactory.connect(Unknown Source)
+	at org.jboss.ide.eclipse.as.jmx.integration.JBoss71ServerConnection.createConnection(JBoss71ServerConnection.java:84)
+	at org.jboss.ide.eclipse.as.jmx.integration.JBossServerConnection.run(JBossServerConnection.java:202)
+	at org.jboss.ide.eclipse.as.jmx.integration.JBossServerConnection.run(JBossServerConnection.java:162)
+	at org.jboss.ide.eclipse.as.jmx.integration.JBossServerConnection.connectToStartedServer(JBossServerConnection.java:332)
+	at org.jboss.ide.eclipse.as.jmx.integration.JBossServerConnection.connect(JBossServerConnection.java:76)
+	at org.jboss.tools.jmx.core.ConnectJob.run(ConnectJob.java:29)
+	at org.jboss.tools.jmx.ui.internal.actions.DoubleClickAction$1.run(DoubleClickAction.java:71)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2017-09-28 19:33:46.182
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 16842784 2017-09-28 19:41:14.219
+!MESSAGE 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2017-09-28 19:46:41.146
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2017-09-28 19:46:41.545
+!MESSAGE Server Startup Succeeded
+!SESSION 
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2017-09-28 20:51:49.936
+!MESSAGE Incremental publish failed for module Portafolio
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:49.936
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/apps. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:49.936
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/amcharts/amcharts/patterns. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:49.936
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/amcharts/amcharts/plugins/dataloader/examples. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:49.936
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/amcharts/amcharts/plugins/dataloader. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:49.936
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/amcharts/amcharts/plugins/export/examples. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:49.936
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/amcharts/amcharts/plugins/export/libs. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:49.937
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/amcharts/amcharts/plugins/export. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:49.937
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/amcharts/amcharts/plugins/responsive/examples. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:49.937
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/amcharts/amcharts/plugins/responsive. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:49.937
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/amcharts/amcharts/plugins. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:49.937
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/amcharts/amcharts. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:49.937
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/amcharts/ammap/maps. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:49.937
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/amcharts/ammap/patterns. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:49.937
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/amcharts/ammap/plugins/dataloader/examples. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:49.937
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/amcharts/ammap/plugins/dataloader. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:49.937
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/amcharts/ammap/plugins/export/examples. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:49.937
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/amcharts/ammap/plugins/export/libs. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:49.937
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/amcharts/ammap/plugins/export. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:49.937
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/amcharts/ammap/plugins/responsive/examples. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:49.937
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/amcharts/ammap/plugins/responsive. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:49.937
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/amcharts/ammap/plugins. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:49.937
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/amcharts/ammap. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:49.938
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/amcharts/amstockcharts/patterns. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:49.938
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/amcharts/amstockcharts/plugins/dataloader/examples. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:49.938
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/amcharts/amstockcharts/plugins/dataloader. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:49.938
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/amcharts/amstockcharts/plugins/export/examples. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:49.938
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/amcharts/amstockcharts/plugins/export/libs. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:49.938
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/amcharts/amstockcharts/plugins/export. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:49.938
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/amcharts/amstockcharts/plugins/responsive/examples. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:49.938
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/amcharts/amstockcharts/plugins/responsive. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:49.938
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/amcharts/amstockcharts/plugins. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:49.938
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/amcharts/amstockcharts. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:49.938
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/amcharts. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:49.938
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/angularjs/plugins/angular-file-upload. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:49.938
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/angularjs/plugins. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:49.938
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/angularjs. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:49.938
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/bootstrap/fonts. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:49.939
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/bootstrap. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:49.939
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/bootstrap-colorpicker. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:49.939
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/bootstrap-datepicker. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:49.939
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/bootstrap-datetimepicker/js. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:49.940
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/bootstrap-datetimepicker. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:49.940
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/bootstrap-editable/bootstrap-editable. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:49.940
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/bootstrap-editable/inputs-ext/wysihtml5. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:49.940
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/bootstrap-editable/inputs-ext. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:49.940
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/bootstrap-editable. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:49.940
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/bootstrap-markdown. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:49.940
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/bootstrap-modal. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:49.940
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/bootstrap-multiselect. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:49.940
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/bootstrap-select/js. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:49.940
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/bootstrap-select. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:49.941
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/bootstrap-summernote. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:49.941
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/bootstrap-switch. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:49.941
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/bootstrap-tabdrop. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:49.941
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/bootstrap-table/extensions. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:49.941
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/bootstrap-table. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:50.146
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/bootstrap-timepicker. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:50.146
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/bootstrap-wysihtml5. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:50.146
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/ckeditor/plugins/a11yhelp/dialogs. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:50.146
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/ckeditor/plugins/a11yhelp. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:50.146
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/ckeditor/plugins/about/dialogs. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:50.146
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/ckeditor/plugins/about. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:50.146
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/ckeditor/plugins/clipboard. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:50.146
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/ckeditor/plugins/colordialog. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:50.146
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/ckeditor/plugins/div. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:50.146
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/ckeditor/plugins/find. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:50.146
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/ckeditor/plugins/flash. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:50.146
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/ckeditor/plugins/forms. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:50.146
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/ckeditor/plugins/iframe. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:50.146
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/ckeditor/plugins/image. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:50.146
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/ckeditor/plugins/link/images. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:50.146
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/ckeditor/plugins/link. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:50.146
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/ckeditor/plugins/liststyle. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:50.146
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/ckeditor/plugins/magicline/images. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:50.146
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/ckeditor/plugins/magicline. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:50.146
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/ckeditor/plugins/pagebreak. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:50.146
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/ckeditor/plugins/pastefromword. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:50.146
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/ckeditor/plugins/scayt. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:50.146
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/ckeditor/plugins/showblocks. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:50.146
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/ckeditor/plugins/smiley. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:50.146
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/ckeditor/plugins/specialchar/dialogs. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:50.146
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/ckeditor/plugins/specialchar. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:50.146
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/ckeditor/plugins/table. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:50.146
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/ckeditor/plugins/tabletools. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:50.146
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/ckeditor/plugins/templates/templates. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:50.147
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/ckeditor/plugins/templates. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:50.147
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/ckeditor/plugins/wsc. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:50.147
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/ckeditor/plugins. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:50.147
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/ckeditor/samples/assets. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:50.147
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/ckeditor/samples/plugins/dialog. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:50.147
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/ckeditor/samples/plugins/htmlwriter/assets. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:50.147
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/ckeditor/samples/plugins/htmlwriter. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:50.147
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/ckeditor/samples/plugins. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:50.147
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/ckeditor/samples. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:50.147
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/ckeditor/skins/moono/images. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:50.147
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/ckeditor/skins/moono. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:50.147
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/ckeditor/skins. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:50.147
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/ckeditor. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:50.147
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/clockface. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:50.147
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/codemirror/addon. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:50.147
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/codemirror/mode/rpm. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:50.147
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/codemirror/mode. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:50.147
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/codemirror. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:50.147
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/countdown. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:50.147
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/cubeportfolio. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:50.147
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/datatables/plugins. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:50.147
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/datatables. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:50.147
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/echarts. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:50.147
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/fancybox/source. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:50.147
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/fancybox. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:50.147
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/font-awesome. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:50.147
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/fuelux. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:50.147
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/fullcalendar/demos. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:50.147
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/fullcalendar/lib/cupertino. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:50.148
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/fullcalendar/lib. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:50.148
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/fullcalendar. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:50.148
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/highcharts/js. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:50.148
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/highcharts. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:50.148
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/highmaps/js. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:50.148
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/highmaps. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:50.148
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/highstock/js. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:50.148
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/highstock. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:50.148
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/icheck/demo/css. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:50.148
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/icheck/demo. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:50.148
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/icheck/skins. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:50.148
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/icheck. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:50.148
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/ion.rangeslider. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:50.148
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/jcrop/demos. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:50.148
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/jcrop. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:50.148
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/jquery-file-upload/js. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:50.148
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/jquery-file-upload. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:50.148
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/jquery-gantt. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:50.148
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/jquery-inputmask. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:50.148
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/jquery-knob. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:50.148
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/jquery-multi-select. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:50.148
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/jquery-ui. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:50.148
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/jquery-validation/js. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:50.149
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/jquery-validation. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:50.149
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/jqvmap/jqvmap. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:50.149
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/jqvmap. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:50.149
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/jstree/dist/themes. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:50.149
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/jstree/dist. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:50.149
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/jstree. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:50.149
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/mapplic/images. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:50.149
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/mapplic/mapplic. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:50.149
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/mapplic. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:50.149
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/morris/examples. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:50.149
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/morris/spec/lib. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:50.149
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/morris/spec/viz. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:50.149
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/morris/spec. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:50.149
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/morris. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:50.149
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/owl-carousel/assets/img. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:50.149
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/owl-carousel/assets/js. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:50.149
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/owl-carousel/assets. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:50.149
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/owl-carousel. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:50.149
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/pace. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:50.149
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/plupload/js/jquery.plupload.queue. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:50.149
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/plupload/js/jquery.ui.plupload. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:50.149
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/plupload/js. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:50.149
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/plupload. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:50.149
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/select2/js. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:50.149
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/select2. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:50.149
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/simple-line-icons. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:50.149
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/socicon. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:50.149
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/tabdrop. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:50.149
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/wysihtml/lib. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:50.149
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins/wysihtml. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:50.150
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global/plugins. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:50.150
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/global. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:50.150
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/layouts/global. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:50.150
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/layouts/layout/css. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:50.150
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/layouts/layout. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:50.150
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/layouts/layout2/css. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:50.150
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/layouts/layout2. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:50.150
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/layouts/layout3/css. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:50.150
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/layouts/layout3. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:50.150
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/layouts/layout4/css. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:50.150
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/layouts/layout4. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:50.150
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/layouts/layout5. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:50.150
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/layouts/layout6. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:50.150
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/layouts/layout7. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:50.150
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/layouts. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:50.150
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/pages/img. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:50.150
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/pages/media. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:50.150
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets/pages. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:50.150
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css/assets. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2017-09-28 20:51:50.150
+!MESSAGE Could not delete C:/PROYECTOS/java/servidorapp/wildfly-10.1.0.Final/standalone/deployments/Portafolio.war/css. May be locked by another process.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2017-09-28 21:05:11.221
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2017-09-28 21:14:28.880
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2017-09-28 21:20:35.714
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2017-09-28 21:20:35.926
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2017-09-28 21:54:28.209
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2017-09-28 21:54:28.548
+!MESSAGE Server Startup Succeeded

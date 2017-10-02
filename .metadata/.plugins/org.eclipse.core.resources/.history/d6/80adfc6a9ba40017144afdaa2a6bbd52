@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html data-ng-app="myApp">
+<head> 
+
+<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" href="css/app.css" />
+
+<script type="text/javascript"
+	src="bower_components/angularjs/angular.min.js"></script>
+<script type="text/javascript"
+	src="bower_components/sockjs/sockjs.min.js"></script>
+
+<script type="text/javascript" src="angular-beans.js"></script>
+
+<script type="text/javascript" src="js/filters.js"></script>
+<script type="text/javascript" src="js/services.js"></script>
+<script type="text/javascript" src="js/controllers.js"></script>
+<script type="text/javascript" src="js/directives.js"></script>
+<script type="text/javascript" src="js/module.js"></script>
+
+<meta charset="ISO-8859-1">
+<title>hello world</title>
+</head>
+
+<body ng-app="myApp">
+
+	<div class="container">
+		<div class="row top-buffer">
+			<div class="col-xs-8 col-xs-offset-2">
+
+				<div ng-controller="MyCtrl as vm">
+
+					<div class="form-group">
+						<fieldset>
+							<label>your name: </label> <input ng-model="name"
+								class="form-control">
+						</fieldset>
+					</div>
+
+					<button ng-click="vm.helloAngularBeans.sayHello(name)" class="btn btn-primary">click
+						me</button>
+
+					<span color="blue">message {{vm.helloAngularBeans.message}}</span>
+
+				</div>
+			</div>
+		</div>
+	</div>
+
+</body>
+</html>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kb-project>
+ <depends-on-projects/>
+ <used-by-projects/>
+ <paths>
+  <path value="C:/Users/JUAN PABLO/.m2/repository/com/github/bessemHmidi/angularBeans/1.0.2-RC2/angularBeans-1.0.2-RC2.jar"/>
+  <path value="C:/Users/JUAN PABLO/.m2/repository/com/google/javascript/closure-compiler/v20131014/closure-compiler-v20131014.jar"/>
+  <path value="C:/Users/JUAN PABLO/.m2/repository/com/google/code/gson/gson/2.3/gson-2.3.jar"/>
+  <path value="C:/Users/JUAN PABLO/.m2/repository/io/fastjson/boon/0.32/boon-0.32.jar"/>
+  <path value="C:/Users/JUAN PABLO/.m2/repository/com/google/guava/guava/13.0.1/guava-13.0.1.jar"/>
+  <path value="C:/Users/JUAN PABLO/.m2/repository/org/json/json/20090211/json-20090211.jar"/>
+  <path value="C:/Users/JUAN PABLO/.m2/repository/javax/javaee-web-api/7.0/javaee-web-api-7.0.jar"/>
+ </paths>
+ <validation>
+  <el>
+   <linked-el length="22" name="%0" offset="416" path="%1"/>
+   <linked-el length="24" name="%0" offset="549" path="%1"/>
+   <linked-el length="24" name="%0" offset="493" path="%1"/>
+   <linked-el length="22" name="%2" offset="416" path="%1"/>
+   <linked-el length="24" name="%2" offset="549" path="%1"/>
+   <linked-el length="24" name="%2" offset="493" path="%1"/>
+   <linked-el length="21" name="%3" offset="1016" path="%4"/>
+   <linked-el length="21" name="%5" offset="1016" path="%4"/>
+  </el>
+ </validation>
+ <aliases>
+  <alias path="msg" value="%0"/>
+  <alias
+   path="/Portafolio/src/main/java/resources/application.properties" value="%2"/>
+  <alias path="/Portafolio/pom.xml" value="%4"/>
+  <alias path="project.artifactId" value="%3"/>
+  <alias path="project" value="%5"/>
+  <alias path="/Portafolio/src/main/webapp/index.xhtml" value="%1"/>
+ </aliases>
+ <includes/>
+ <uris/>
+</kb-project>
